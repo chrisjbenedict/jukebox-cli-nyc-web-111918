@@ -61,10 +61,10 @@ def run(my_songs)
     user_command = gets.downcase.strip
     case user_command
     when 'list'
-      list(songs)
+      list(my_songs)
     when 'play'
-      list(songs)
-      play(songs)
+      list(my_songs)
+      play(my_songs)
     when 'help'
       help
     when 'exit'
