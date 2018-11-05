@@ -3,13 +3,13 @@
 #with the correct path to this directory on your computer
 
 my_songs = {
- "Go Go GO" => '/home/chrisjbenedict/jukebox-cli/audio/Emerald-Park/01.mp3',
- "LiberTeens" => '/home/chrisjbenedict/jukebox-cli/audio/Emerald-Park/02.mp3',
- "Hamburg" =>  '/home/chrisjbenedict/jukebox-cli/audio/Emerald-Park/03.mp3',
- "Guiding Light" => '/home/chrisjbenedict/jukebox-cli/audio/Emerald-Park/04.mp3',
- "Wolf" => '/home/chrisjbenedict/jukebox-cli/audio/Emerald-Park/05.mp3',
- "Blue" => '/home/chrisjbenedict/jukebox-cli/audio/Emerald-Park/06.mp3',
- "Graduation Failed" => '/home/chrisjbenedict/jukebox-cli/audio/Emerald-Park/07.mp3'
+ "Go Go GO" => '/home/chrisjbenedict/jukebox-cli-nyc-web-111918/audio/Emerald-Park/01.mp3',
+ "LiberTeens" => '/home/chrisjbenedict/jukebox-cli-nyc-web-111918/audio/Emerald-Park/02.mp3',
+ "Hamburg" =>  '//home/chrisjbenedict/jukebox-cli-nyc-web-111918/audio/Emerald-Park/03.mp3',
+ "Guiding Light" => '/home/chrisjbenedict/jukebox-cli-nyc-web-111918/audio/Emerald-Park/04.mp3',
+ "Wolf" => '/home/chrisjbenedict/jukebox-cli-nyc-web-111918/audio/Emerald-Park/05.mp3',
+ "Blue" => '/home/chrisjbenedict/jukebox-cli-nyc-web-111918/audio/Emerald-Park/06.mp3',
+ "Graduation Failed" => '/home/chrisjbenedict/jukebox-cli-nyc-web-111918/audio/Emerald-Park/07.mp3'
 }
 
 def help
